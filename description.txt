@@ -1,0 +1,15 @@
+Uhh this mod basically lets you change the items and blocks that only appear in certian types of worlds.
+For example, You have a corrupt world and want some crimson loot
+For example, You have a copper world but, some mod forgot to add a copper recipe and added only a tin recipe instead.
+Or, you have a pink dungeon, but really want blue dungeon bricks (i dunno maybe you like building)
+
+I made this because I wanted mythril on my world which was orichalcum, and decided to include other things
+
+Changelogs:
+
+v0.2:
+- Added a homepage (hopefully)
+- Fixed accidental Ichor to Flesh Hook. Now accepts Tendon Hook instead.
+
+v0.1:
+- Added everything
