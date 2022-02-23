@@ -5,7 +5,14 @@ Or, you have a pink dungeon, but really want blue dungeon bricks (i dunno maybe 
 
 I made this because I wanted mythril on my world which was orichalcum, and decided to include other things
 
+You can find the source code over here https://github.com/DeathPacito6/SwapWorldSpecificItems.
+The full list of item swap thingies is on the homepage in the terraria forums.
+
+
 Changelogs:
+
+v0.3
+- Added an icon?
 
 v0.2:
 - Added a homepage (hopefully)
