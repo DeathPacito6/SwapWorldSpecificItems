@@ -1,5 +1,5 @@
 displayName = Swappable World Specific Items
 author = DeathPacito6
-version = 0.3.1
+version = 0.3.2
 includeSource = true
 homepage = https://forums.terraria.org/index.php?threads/swappable-world-specific-items-mod.111032/
