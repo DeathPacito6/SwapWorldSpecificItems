@@ -10,9 +10,11 @@ The full list of item swap thingies is on the homepage in the terraria forums.
 
 
 Changelogs:
+v0.3.2
+- Added recipe for silver bullets with tungsten because it was annoying having to convert to silver bars first.
 
 v0.3
-- Added an icon?
+- Added an icon
 
 v0.2:
 - Added a homepage (hopefully)

@@ -470,8 +470,6 @@ namespace SwapWorldSpecificItems
 					TendonHook.AddRecipe();
 				} //TendonHook and WormHook
 
-
-
 			}
 			//other miscellanous things
 			{
@@ -514,6 +512,14 @@ namespace SwapWorldSpecificItems
 
 
 				} //dungeon bricks
+                {
+					ModRecipe SilverBullet = new ModRecipe(this);     //Silver Bullet
+					SilverBullet.AddIngredient(ItemID.MusketBall, 70);
+					SilverBullet.AddIngredient(ItemID.TungstenBar);
+					SilverBullet.AddTile(TileID.Anvils);
+					SilverBullet.SetResult(ItemID.SilverBullet, 70);
+					SilverBullet.AddRecipe();
+				} //silver bullets from tungsten
 			}
 
 
